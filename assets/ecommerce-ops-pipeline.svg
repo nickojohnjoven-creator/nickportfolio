@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" fill="none" width="100%" height="100%">
+  <!-- Background Panel -->
+  <rect width="600" height="240" rx="16" fill="#0C1017" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Step 1: Catalog & Pricing -->
+  <g transform="translate(30, 40)">
+    <rect width="115" height="160" rx="10" fill="#131B26" stroke="#334155" stroke-width="1"/>
+    <circle cx="28" cy="32" r="16" fill="rgba(56, 189, 248, 0.15)"/>
+    <text x="28" y="37" fill="#38BDF8" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">01</text>
+    <text x="16" y="70" fill="#F8FAFC" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold">Store Catalog</text>
+    <text x="16" y="92" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Listings, pricing,</text>
+    <text x="16" y="106" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">variants, stock levels,</text>
+    <text x="16" y="120" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">&amp; flash promotions.</text>
+    <rect x="16" y="136" width="82" height="18" rx="4" fill="rgba(255,255,255,0.04)"/>
+    <text x="57" y="149" fill="#38BDF8" font-family="'JetBrains Mono', monospace" font-size="8" text-anchor="middle">E-COMMERCE</text>
+  </g>
+
+  <!-- Flow Arrow 1 -->
+  <path d="M152 120 L170 120" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <polygon points="172,120 167,116 167,124" fill="#38BDF8"/>
+
+  <!-- Step 2: AI & Photoshop Media -->
+  <g transform="translate(175, 40)">
+    <rect width="115" height="160" rx="10" fill="#131B26" stroke="#334155" stroke-width="1"/>
+    <circle cx="28" cy="32" r="16" fill="rgba(16, 185, 129, 0.15)"/>
+    <text x="28" y="37" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">02</text>
+    <text x="16" y="70" fill="#F8FAFC" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold">Digital Assets</text>
+    <text x="16" y="92" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">AI image retouching,</text>
+    <text x="16" y="106" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Photoshop banners,</text>
+    <text x="16" y="120" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">&amp; CapCut video reels.</text>
+    <rect x="16" y="136" width="82" height="18" rx="4" fill="rgba(255,255,255,0.04)"/>
+    <text x="57" y="149" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="8" text-anchor="middle">PHOTOSHOP / AI</text>
+  </g>
+
+  <!-- Flow Arrow 2 -->
+  <path d="M297 120 L315 120" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <polygon points="317,120 312,116 312,124" fill="#10B981"/>
+
+  <!-- Step 3: Orders & Logistics -->
+  <g transform="translate(320, 40)">
+    <rect width="115" height="160" rx="10" fill="#131B26" stroke="#334155" stroke-width="1"/>
+    <circle cx="28" cy="32" r="16" fill="rgba(245, 158, 11, 0.15)"/>
+    <text x="28" y="37" fill="#F59E0B" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">03</text>
+    <text x="16" y="70" fill="#F8FAFC" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold">Fulfillment Sync</text>
+    <text x="16" y="92" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Order tracking,</text>
+    <text x="16" y="106" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">courier dispatch,</text>
+    <text x="16" y="120" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">&amp; customer reviews.</text>
+    <rect x="16" y="136" width="82" height="18" rx="4" fill="rgba(255,255,255,0.04)"/>
+    <text x="57" y="149" fill="#F59E0B" font-family="'JetBrains Mono', monospace" font-size="8" text-anchor="middle">COURIER DISPATCH</text>
+  </g>
+
+  <!-- Flow Arrow 3 -->
+  <path d="M442 120 L460 120" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <polygon points="462,120 457,116 457,124" fill="#10B981"/>
+
+  <!-- Step 4: Analytics & IT Support -->
+  <g transform="translate(465, 40)">
+    <rect width="105" height="160" rx="10" fill="#131B26" stroke="#10B981" stroke-width="1.2"/>
+    <circle cx="28" cy="32" r="16" fill="rgba(16, 185, 129, 0.25)"/>
+    <text x="28" y="37" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">04</text>
+    <text x="14" y="70" fill="#F8FAFC" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold">Audits &amp; IT Ops</text>
+    <text x="14" y="92" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">Sales conversions,</text>
+    <text x="14" y="106" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">network Wi-Fi fix,</text>
+    <text x="14" y="120" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5">&amp; printer servicing.</text>
+    <rect x="14" y="136" width="76" height="18" rx="4" fill="rgba(16,185,129,0.12)"/>
+    <text x="52" y="149" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="8" text-anchor="middle">STABLE OPS</text>
+  </g>
+</svg>
